@@ -22,3 +22,9 @@ The tool facilitates discussions by visually highlighting the performance differ
 Conclusion
 
 In conclusion, the "Company Comparison Tool" offers a convenient and visually engaging platform for comparing the financial performance of two companies. The integration of Dash, Yahoo Finance API, and Clearbit logos ensures a comprehensive and user-friendly experience. Users can leverage this tool for quick assessments and in-depth discussions about the financial strengths and weaknesses of the specified companies in a chosen market or industry.
+
+Example of output:
+
+![Screenshot 2023-12-20 at 11 32 22](https://github.com/glicerio-vergara/Comparing_two_companies/assets/79378133/8a23b39a-de5a-4026-b144-82a40184b54a)
+
+
