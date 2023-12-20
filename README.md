@@ -25,6 +25,7 @@ In conclusion, the "Company Comparison Tool" offers a convenient and visually en
 
 Example of output:
 
-![Screenshot 2023-12-20 at 11 32 22](https://github.com/glicerio-vergara/Comparing_two_companies/assets/79378133/8a23b39a-de5a-4026-b144-82a40184b54a)
+![Screenshot 2023-12-20 at 11 50 40](https://github.com/glicerio-vergara/Comparing_two_companies/assets/79378133/af813f1c-fbc8-4a17-bafc-dd17b5bcefad)
+
 
 
